@@ -21,4 +21,4 @@ The raw data provided, for each record:
 - An identifier of the subject who carried out the experiment.
 
 In the tidy data the 561-feature vector has been reduced to a 66-feature vector: only the mean and standard deviation variables have been included. The tidy data has thus 68 total columns: a column for the subject (i.e. the number associated with each volunteer), a column for the activity performed and 66 measurements.
-The resultant tidyData.txt calculated the average measurements for the 30 subjects and 6 activities involved in the experiment. The total rows are 180 + one header.
+The resultant `tidy_data.txt` calculated the average measurements for the 30 subjects and 6 activities involved in the experiment. The total rows are 180 + one header.
