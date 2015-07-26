@@ -17,6 +17,6 @@ The script can be run in R Console or R-Studio by loading the source:
 source('run_analysis.R')
 ```
 
-The source offers two main functions. The `get_data()`function downloads the data. Use it only if you do not have the raw data in your working directory. The `run_analysis()` function will perform the analysis on the raw data present in your working directory and output a __tidy_data.txt__ file.
+The source offers two main functions. The `get_data()`function downloads the data. Use it only if you do not have the raw data in your working directory. The `run_analysis()` function will perform the analysis on the raw data present in your working directory and output a `tidy_data.txt` file.
 
 
